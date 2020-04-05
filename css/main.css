@@ -1,7 +1,7 @@
 /**
  * =================================================================== 
  *
- *  Kards v1.0 Main Stylesheet
+ *  Benj v1.0 Main Stylesheet
  *  url: styleshout.com
  *  03-01-2016
  *  ------------------------------------------------------------------
@@ -1341,7 +1341,7 @@ header .logo a {
 	font-family: "poppins-bold", sans-serif;
 	font-size: 2.3rem;
 	line-height: 1.565;
-	margin-bottom: 0;
+	margin-bottom: 20px;
 	text-transform: uppercase;
 	letter-spacing: .3rem;
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
@@ -1379,7 +1379,7 @@ header .logo a {
 	height: 6rem !important;
 	line-height: 5.4rem !important;
 	padding: 0 3.5rem 0 3rem !important;
-	margin-top: .6rem;
+	margin-top: 3rem;
 	font-size: 1.3rem;
 	text-transform: uppercase;
 	letter-spacing: .25rem;
